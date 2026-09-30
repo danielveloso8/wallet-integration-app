@@ -1,0 +1,27 @@
+server:
+  address: 127.0.0.1
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:h2:file:${user.home}/.wallet-dashboard/data/wallet
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: false
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 6MB
+  flyway:
+    enabled: true
+app:
+  timezone: Europe/Lisbon
+  import:
+    max-file-bytes: 5242880
+    max-rows: 50000
+    max-errors-reported: 500
+    staged-ttl: PT60M
+  security:
+    allowed-hosts: [ "localhost:8080", "127.0.0.1:8080" ]
+    allowed-origins: [ "http://localhost:8080", "http://127.0.0.1:8080" ]
