@@ -1,0 +1,41 @@
+﻿date;type;amount;ref_currency_amount;currency;account;category;payment_type;note;payee;labels;transfer
+2026-09-27T23:00:00.000Z;Despesa;3.20;;EUR;Main;Transport;Card;Summer bank row;Fictional Metro;commute;false
+2026-09-29T23:06:51.825Z;Despesa;12.50;;EUR;Main;Food;Card;Manual transaction;Fictional Cafe;lunch;false
+2026-09-01T10:00:00.000Z;Despesa;2.40;;EUR;Main;Transport;Card;Toll duplicate;Fictional Toll;road;false
+2026-09-01T10:00:00.000Z;Despesa;2.40;;EUR;Main;Transport;Card;Toll duplicate;Fictional Toll;road;false
+2026-09-02T11:00:00.000Z;Despesa;4.00;;EUR;Main;Food;Card;Trailing space ;Fictional Bakery;food;false
+2026-09-03T12:00:00.000Z;Despesa;5.00;;EUR;Main;Food;Card;Double  space;Fictional Bakery;food;false
+2026-09-04T13:00:00.000Z;Despesa;6.00;;EUR;Main;Food;Card;"Quoted; and ""quoted""";Fictional Deli;food;false
+2026-09-05T14:00:00.000Z;Receita;1200;;EUR;Main;Salary;Bank;Monthly salary;Fictional Employer;income;false
+2026-09-06T14:00:00.000Z;Receita;18.50;;EUR;Main;Food;Card;Refund-like income;Fictional Store;income;false
+2026-09-07T08:00:00.000Z;Despesa;25;;EUR;Main;Housing;Bank;Rent;Fictional Home;monthly;false
+2026-09-08T09:00:00.000Z;Despesa;7.5;;EUR;Main;Transport;Card;Bus;Fictional Bus;commute;false
+2026-09-09T10:00:00.000Z;Despesa;8.25;;EUR;Main;Food;Card;Groceries;Fictional Market;food;false
+2026-09-10T11:00:00.000Z;Despesa;9;;EUR;Main;Health;Card;Pharmacy;Fictional Pharmacy;health;false
+2026-09-11T12:00:00.000Z;Despesa;10.2;;EUR;Main;Leisure;Card;Museum;Fictional Museum;leisure;false
+2026-09-12T13:00:00.000Z;Despesa;11.35;;EUR;Main;Food;Card;Lunch;Fictional Restaurant;food;false
+2026-09-13T14:00:00.000Z;Despesa;12.4;;EUR;Main;Transport;Card;Train;Fictional Rail;commute;false
+2026-09-14T15:00:00.000Z;Despesa;13.55;;EUR;Main;Shopping;Card;Household;Fictional Shop;home;false
+2026-09-15T16:00:00.000Z;Despesa;14.6;;EUR;Main;Utilities;Bank;Electricity;Fictional Utility;home;false
+2026-09-16T17:00:00.000Z;Despesa;15.75;;EUR;Main;Food;Card;Market;Fictional Market;food;false
+2026-09-17T18:00:00.000Z;Despesa;16.8;;EUR;Main;Transport;Card;Taxi;Fictional Taxi;commute;false
+2026-09-18T19:00:00.000Z;Despesa;17.95;;EUR;Main;Leisure;Card;Cinema;Fictional Cinema;leisure;false
+2026-09-19T20:00:00.000Z;Despesa;18;;EUR;Main;Food;Card;Dinner;Fictional Restaurant;food;false
+2026-09-20T21:00:00.000Z;Despesa;19.05;;EUR;Main;Food;Card;Bakery;Fictional Bakery;food;false
+2026-09-21T07:00:00.000Z;Despesa;20.1;;EUR;Main;Health;Card;Appointment;Fictional Clinic;health;false
+2026-09-22T08:00:00.000Z;Despesa;21.25;;EUR;Main;Shopping;Card;Shoes;Fictional Store;shopping;false
+2026-09-23T09:00:00.000Z;Despesa;22.3;;EUR;Main;Transport;Card;Fuel;Fictional Station;commute;false
+2026-09-24T10:00:00.000Z;Despesa;23.45;;EUR;Main;Food;Card;Groceries;Fictional Market;food;false
+2026-09-25T11:00:00.000Z;Despesa;24.5;;EUR;Main;Utilities;Bank;Internet;Fictional Utility;home;false
+2026-09-26T12:00:00.000Z;Despesa;25.65;;EUR;Main;Leisure;Card;Concert;Fictional Venue;leisure;false
+2026-09-27T13:00:00.000Z;Despesa;26.7;;EUR;Main;Food;Card;Lunch;Fictional Cafe;food;false
+2026-09-28T14:00:00.000Z;Despesa;27.85;;EUR;Main;Transport;Card;Parking;Fictional Garage;commute;false
+2026-09-29T15:00:00.000Z;Despesa;28.9;;EUR;Main;Food;Card;Dinner;Fictional Diner;food;false
+2026-09-30T16:00:00.000Z;Despesa;29.05;;EUR;Main;Shopping;Card;Books;Fictional Bookshop;leisure;false
+2026-09-12T10:00:00.000Z;Receita;75;;EUR;Main;Other;Bank;Transfer in;Fictional Savings;transfer;true
+2026-09-12T10:00:00.000Z;Despesa;75;;EUR;Savings;Other;Bank;Transfer out;Fictional Main;transfer;true
+2026-09-13T10:00:00.000Z;Receita;40;;EUR;Savings;Other;Bank;Second transfer in;Fictional Main;transfer;true
+2026-09-13T10:00:00.000Z;Despesa;40;;EUR;Main;Other;Bank;Second transfer out;Fictional Savings;transfer;true
+2026-09-14T10:00:00.000Z;Despesa;3.10;;USD;Travel;Food;Card;Foreign currency;Fictional Diner;travel;false
+2026-09-15T10:00:00.000Z;Receita;0.5;;EUR;Main;Food;Cash;Small income;Fictional Market;misc;false
+2026-09-16T10:00:00.000Z;Despesa;100;;EUR;Main;Housing;Bank;Maintenance;Fictional Home;home;false
